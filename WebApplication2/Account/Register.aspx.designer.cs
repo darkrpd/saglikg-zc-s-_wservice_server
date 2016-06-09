@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebApplication2.Account {
+namespace SaglikGozcusuWebService.Account {
     
     
     public partial class Register {

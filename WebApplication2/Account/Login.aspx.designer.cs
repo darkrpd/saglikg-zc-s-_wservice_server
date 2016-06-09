@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebApplication2.Account {
+namespace SaglikGozcusuWebService.Account {
     
     
     public partial class Login {
@@ -73,6 +73,6 @@ namespace WebApplication2.Account {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::WebApplication2.Account.OpenAuthProviders OpenAuthLogin;
+        protected global::SaglikGozcusuWebService.Account.OpenAuthProviders OpenAuthLogin;
     }
 }

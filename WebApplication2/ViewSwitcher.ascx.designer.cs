@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebApplication2 {
+namespace SaglikGozcusuWebService {
     
     
     public partial class ViewSwitcher {

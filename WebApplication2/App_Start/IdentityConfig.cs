@@ -6,9 +6,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
-using WebApplication2.Models;
+using SaglikGozcusuWebService.Models;
 
-namespace WebApplication2
+namespace SaglikGozcusuWebService
 {
     public class EmailService : IIdentityMessageService
     {

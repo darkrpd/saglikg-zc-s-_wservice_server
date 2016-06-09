@@ -8,9 +8,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Owin;
-using WebApplication2.Models;
+using SaglikGozcusuWebService.Models;
 
-namespace WebApplication2.Account
+namespace SaglikGozcusuWebService.Account
 {
     public partial class Manage : System.Web.UI.Page
     {

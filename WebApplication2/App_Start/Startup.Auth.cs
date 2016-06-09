@@ -7,9 +7,9 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.DataProtection;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using WebApplication2.Models;
+using SaglikGozcusuWebService.Models;
 
-namespace WebApplication2
+namespace SaglikGozcusuWebService
 {
     public partial class Startup {
 

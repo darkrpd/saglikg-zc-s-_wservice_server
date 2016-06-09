@@ -8,7 +8,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using Microsoft.AspNet.Identity;
 
-namespace WebApplication2
+namespace SaglikGozcusuWebService
 {
     public partial class SiteMaster : MasterPage
     {

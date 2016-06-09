@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace WebApplication2.Account
+namespace SaglikGozcusuWebService.Account
 {
     public partial class Lockout : System.Web.UI.Page
     {

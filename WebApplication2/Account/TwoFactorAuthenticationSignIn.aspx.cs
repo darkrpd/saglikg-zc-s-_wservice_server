@@ -7,9 +7,9 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
-using WebApplication2.Models;
+using SaglikGozcusuWebService.Models;
 
-namespace WebApplication2.Account
+namespace SaglikGozcusuWebService.Account
 {
     public partial class TwoFactorAuthenticationSignIn : System.Web.UI.Page
     {

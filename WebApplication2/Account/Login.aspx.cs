@@ -4,9 +4,9 @@ using System.Web.UI;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Owin;
-using WebApplication2.Models;
+using SaglikGozcusuWebService.Models;
 
-namespace WebApplication2.Account
+namespace SaglikGozcusuWebService.Account
 {
     public partial class Login : Page
     {

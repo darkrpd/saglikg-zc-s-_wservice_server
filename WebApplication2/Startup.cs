@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(WebApplication2.Startup))]
-namespace WebApplication2
+[assembly: OwinStartupAttribute(typeof(SaglikGozcusuWebService.Startup))]
+namespace SaglikGozcusuWebService
 {
     public partial class Startup {
         public void Configuration(IAppBuilder app) {
