@@ -35,9 +35,6 @@ namespace SaglikGozcusuWebService
         {
             Maddeler[] maddearray = new Maddeler[]
             {
-              new Maddeler()
-              { MaddeAdi="Paraben",MaddeAciklamasi="Bu yapay tatlandırıcılar diyet soda, diyet gıdalar ve düşük kalorili gıdalarda kullanılmaktadır. 1970’li yıllarda yapılan çalışmalarda farelerde beyin tümörüne sebep olduğu belirtilmiştir. 2005 de yapılan en son araştırmalar küçük dozlarda bile farelerde beyin tümörleri ile birlikte lenf ve kan kanseri meydana getirdiğini ortaya koymuştur. Aspartama duyarlı insanlar, tüketimden sonra baş ağrısından, baş dönmesinden ve halüsinasyondan ızdırap çekebilirler. Ek olarak aspartama duyarlı olan kişilerde aspartam anjioödeme yani göz kapaklarında, dudaklarda, ellerde veya ayaklarda yanma hissinin eşlik ettiği şişliklere neden olur. "},
-
               new Maddeler() 
               { MaddeAdi="Paraben",MaddeAciklamasi="İlaç ve kozmetik sektöründe kullanılan koruyucu bir kimyasal maddedir. 15 Mart 2011 tarihinden itibaren Danimarka, paraben’in bebek ve 3 yaş altı çocuklar için üretilen kozmetik ürünlerinde kullanılmasını yasaklamıştır."},
               new Maddeler()
